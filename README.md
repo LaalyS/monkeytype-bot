@@ -101,3 +101,4 @@ git push origin master
 Note that you may replace `master` with the name of a branch you may create so that you can contribute many things at once.
 
 After you have committed and pushed your changes to your fork, go on GitHub to your repository and click the button to make a pull request at the top. If you do not see that button, go to [the official monkeytype-bot repository](https://github.com/monkeytypegame/monkeytype-bot), click `Pull Requests` and `New pull request`. Make sure that you are trying to merge your branch from your fork into the master branch of the offical repository. Add a detailed title and description of what you changed and click `Create pull request`. Your changes will be reviewed by a maintainer and feedback will be provided.
+
